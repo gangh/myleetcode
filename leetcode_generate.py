@@ -9,6 +9,7 @@
 
 import requests
 import configparser
+import copy
 import os
 import json
 import time
@@ -416,7 +417,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                 if item.pass_language:
                     dirname = '{id}-{title}'.format(id=str(item.id).zfill(3), title=item.title)
                     language = ''
-                    language_lst = item.pass_language.copy()
+                    language_lst = copy.copy(item.pass_language)
                     while language_lst:
                         lan = language_lst.pop()
                         language += '[{language}]({repo}/blob/master/{dirname}/{title}.{ext})'.format(language=lan.capitalize(), repo=CONFIG['repo'],
