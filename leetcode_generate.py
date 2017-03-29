@@ -388,7 +388,7 @@ class Leetcode:
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
         md = '''# :pencil2: Leetcode Solutions with {language}
-Update time:  {tm}
+Update time:  {tm} {tm_zone}
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -404,6 +404,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|'''.format(language=languages_readme,
                                           tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
+					  tm_zone=time.tzname[0],
                                           num_solved=self.num_solved, num_total=self.num_total,
                                           num_lock=self.num_lock, repo=CONFIG['repo'])
         md += '\n'
