@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python
-Update time:  2017-03-30 12:35:11 UTC
+Update time:  2017-04-02 12:32:12 UTC
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode) [Usage](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-I have solved **2   /   503** problems
-while there are **91** problems still locked.
+I have solved **3   /   507** problems
+while there are **92** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/gangh/myleetcode/issues).
 
@@ -20,7 +20,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|||Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|||Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Python](https://github.com/gangh/myleetcode/blob/master/007-reverse-integer/reverse-integer.py)||Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|||Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
@@ -496,6 +496,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |516|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|||Medium|
 |517|[super-washing-machines](https://leetcode.com/problems/super-washing-machines)|||Hard|
 |520|[detect-capital](https://leetcode.com/problems/detect-capital)|||Easy|
+|521|[longest-uncommon-subsequence-i](https://leetcode.com/problems/longest-uncommon-subsequence-i)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-i/)|Easy|
+|522|[longest-uncommon-subsequence-ii](https://leetcode.com/problems/longest-uncommon-subsequence-ii)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-ii/)|Medium|
 |523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum)|||Medium|
 |524|[longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|||Medium|
 |525|[contiguous-array](https://leetcode.com/problems/contiguous-array)||[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
@@ -517,3 +519,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |544|[output-contest-matches](https://leetcode.com/problems/output-contest-matches)|:lock:||Medium|
 |545|[boundary-of-binary-tree](https://leetcode.com/problems/boundary-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/boundary-of-binary-tree/)|Medium|
 |546|[remove-boxes](https://leetcode.com/problems/remove-boxes)||[:memo:](https://leetcode.com/articles/remove-boxes/)|Hard|
+|547|[friend-circles](https://leetcode.com/problems/friend-circles)||[:memo:](https://leetcode.com/articles/friend-circles/)|Medium|
+|548|[split-array-with-equal-sum](https://leetcode.com/problems/split-array-with-equal-sum)|:lock:|[:memo:](https://leetcode.com/articles/split-array-with-equal-sum/)|Medium|
