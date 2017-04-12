@@ -1,3 +1,6 @@
+
+date
+cd /home/gang/mygithub/myleetcode/
 git pull
 python leetcode_generate.py
 git add .
