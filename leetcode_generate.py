@@ -182,7 +182,7 @@ class Leetcode:
             data['lock'] = not json_data['is_paid'] and quiz['paid_only']
             data['difficulty'] = difficulty[quiz['difficulty']['level']]
             data['favorite'] = quiz['is_favor']
-            data['acceptance'] = "%.1f%%" % (float(quiz['stat']['total_acs']) * 100 / float(quiz['stat']['total_submitted']))
+            data['acceptance'] = "{0:.1f}%".format((float(quiz['stat']['total_acs']) * 100 / float(quiz['stat']['total_submitted'])))
             data['url'] = '{base}/problems/{title}'.format(base=self.base_url, title=quiz['stat']['question__title_slug'])
             data['pass'] = quiz['status']
             data['article'] = quiz['stat']['question__article__slug']
