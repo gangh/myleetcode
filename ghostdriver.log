@@ -1,0 +1,15 @@
+[INFO  - 2019-03-09T09:32:09.299Z] GhostDriver - Main - running on port 37767
+[INFO  - 2019-03-09T09:32:10.215Z] Session [36949420-424e-11e9-80ff-c30eaedaa6c7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-03-09T09:32:10.215Z] Session [36949420-424e-11e9-80ff-c30eaedaa6c7] - page.customHeaders:  - {}
+[INFO  - 2019-03-09T09:32:10.215Z] Session [36949420-424e-11e9-80ff-c30eaedaa6c7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-03-09T09:32:10.215Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 36949420-424e-11e9-80ff-c30eaedaa6c7
+[ERROR - 2019-03-09T09:32:12.425Z] Session [36949420-424e-11e9-80ff-c30eaedaa6c7] - page.onError - msg: Warning: exports: React.createClass is deprecated and will be removed in version 16. Use plain JavaScript classes instead. If you're not yet ready to migrate, create-react-class is available on npm as a drop-in replacement.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-09T09:32:12.425Z] Session [36949420-424e-11e9-80ff-c30eaedaa6c7] - page.onError - stack:
+  (anonymous function) (https://leetcode.com/static/webpack_bundles/vendor-libs.72bcb8572.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-09T09:32:13.199Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1552123933147
+
+  phantomjs://platform/console++.js:263 in error
