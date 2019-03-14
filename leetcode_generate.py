@@ -199,14 +199,14 @@ class Leetcode:
 
         usr = CONFIG['username']
         pwd = CONFIG['password']
-        # driver = webdriver.PhantomJS()
+        driver = webdriver.Firefox(executable_path=CONFIG.get('driverpath'))
         options = webdriver.ChromeOptions()
         options.add_argument('headless')
         options.add_argument('--disable-gpu')
         executable_path = CONFIG.get('driverpath')
-        driver = webdriver.Chrome(
-            chrome_options=options, executable_path=executable_path
-        )
+#       driver = webdriver.Chrome(
+#       chrome_options=options, executable_path=executable_path
+#       )
         driver.get(LOGIN_URL)
 
         # Wait for update
