@@ -1,442 +1,154 @@
-1552460957593	geckodriver	INFO	geckodriver 0.18.0
-1552460957597	geckodriver	INFO	Listening on 127.0.0.1:58559
-1552460959055	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1552531184588	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B2ax1FoMzQ2x"
 
-(firefox-esr:10084): Gtk-WARNING **: Locale not supported by C library.
+(firefox:9834): Gtk-WARNING **: Locale not supported by C library.
 	Using the fallback 'C' locale.
-Unable to init server: Could not connect: Connection refused
-Error: cannot open display: :10
-1552462182986	geckodriver	INFO	geckodriver 0.18.0
-1552462182991	geckodriver	INFO	Listening on 127.0.0.1:58890
-1552462184171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1552531185333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552531185333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
 
-(firefox-esr:10578): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-Unable to init server: Could not connect: Connection refused
-Error: cannot open display: :10
-1552462823465	geckodriver	INFO	geckodriver 0.18.0
-1552462823470	geckodriver	INFO	Listening on 127.0.0.1:51599
-1552462824642	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:10915): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-Unable to init server: Could not connect: Connection refused
-Error: cannot open display: :10
-1552466023323	geckodriver	INFO	geckodriver 0.21.0
-1552466023329	geckodriver	INFO	Listening on 127.0.0.1:60839
-1552466024357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D7AOSUQDR56E"
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:12658): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-Unable to init server: Could not connect: Connection refused
-Error: cannot open display: :10
-1552466040693	geckodriver	INFO	geckodriver 0.21.0
-1552466040698	geckodriver	INFO	Listening on 127.0.0.1:39452
-1552466041717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2C9xGFKvqoQ4"
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:12679): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-Unable to init server: Could not connect: Connection refused
-Error: cannot open display: :10
-1552466785868	geckodriver	INFO	geckodriver 0.21.0
-1552466785875	geckodriver	INFO	Listening on 127.0.0.1:33527
-1552466786893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4enDLdUt6Z56"
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox-esr:13239): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): Gtk-WARNING **: Locale not supported by C library.
+(/opt/firefox/firefox-bin:9988): Gtk-WARNING **: Locale not supported by C library.
 	Using the fallback 'C' locale.
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:13274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-1552466789460	Marionette	INFO	Listening on port 58050
-1552466789520	Marionette	WARN	TLS certificate errors will be ignored for this session
-
-(/usr/lib/firefox-esr/firefox-esr:13319): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-1552470446650	geckodriver	INFO	geckodriver 0.21.0
-1552470446657	geckodriver	INFO	Listening on 127.0.0.1:55497
-1552470447696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HUug8CZf31TC"
-
-(firefox-esr:15020): Gtk-WARNING **: Locale not supported by C library.
+(/opt/firefox/firefox-bin:10006): Gtk-WARNING **: Locale not supported by C library.
 	Using the fallback 'C' locale.
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:9988): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(firefox-esr:15020): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:15053): Gtk-WARNING **: Locale not supported by C library.
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10006): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox-bin:10049): Gtk-WARNING **: Locale not supported by C library.
 	Using the fallback 'C' locale.
+1552531187779	Marionette	INFO	Listening on port 40351
+1552531187801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531206280	Marionette	INFO	Stopped listening on port 40351
 
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15053): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/usr/lib/firefox-esr/firefox-esr:15096): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-1552470450632	Marionette	INFO	Listening on port 59500
-1552470450706	Marionette	WARN	TLS certificate errors will be ignored for this session
-1552481153869	geckodriver	INFO	geckodriver 0.21.0
-1552481153881	geckodriver	INFO	Listening on 127.0.0.1:49668
-1552481154869	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3AQTvXAHCX4Z"
-
-(firefox:20958): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-1552481155748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
-1552481155749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
-1552481155917	Marionette	TRACE	Received observer notification profile-after-change
-1552481156015	Marionette	TRACE	Received observer notification command-line-startup
-1552481156015	Marionette	TRACE	Received observer notification nsPref:changed
-1552481156015	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-1552481156277	Marionette	TRACE	Received observer notification toplevel-window-ready
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(firefox:20958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21131): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
-
-(/opt/firefox/firefox-bin:21149): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
-1552481158303	Marionette	TRACE	Received observer notification sessionstore-windows-restored
-1552481158303	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
-1552481158910	Marionette	TRACE	All scripts recorded.
-1552481158910	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
-1552481158919	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
-1552481158921	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
-1552481158921	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
-1552481158922	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
-1552481158924	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
-1552481158926	Marionette	DEBUG	Setting recommended pref browser.search.update to false
-1552481158926	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
-1552481158927	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
-1552481158927	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
-1552481158928	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
-1552481158929	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
-1552481158931	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
-1552481158931	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
-1552481158931	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
-1552481158932	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
-1552481158932	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
-1552481158933	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
-1552481158934	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
-1552481158934	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
-1552481158935	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
-1552481158935	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
-1552481158935	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
-1552481158937	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
-1552481158937	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
-1552481158938	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
-1552481158938	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
-
-(/opt/firefox/firefox-bin:21206): Gtk-WARNING **: Locale not supported by C library.
-	Using the fallback 'C' locale.
-1552481159052	Marionette	INFO	Listening on port 55525
-1552481159061	Marionette	DEBUG	Remote service is active
-1552481159234	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50276
-1552481159606	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
-1552481159613	Marionette	WARN	TLS certificate errors will be ignored for this session
-1552481159828	Marionette	TRACE	[4294967297] Frame script loaded
-1552481160209	Marionette	TRACE	[4294967297] Frame script registered
-1552481160479	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"7f584540-e124-4e2d-ab24-8d20f47024c5","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
-1552481160675	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://leetcode.com/accounts/login/"}]
-1552481161080	Marionette	TRACE	[4294967297] Received DOM event beforeunload for about:blank
-1552481163255	Marionette	TRACE	[4294967297] Received DOM event pagehide for about:blank
-Exiting due to channel error.
-Exiting due to channel error.
-Exiting due to channel error.
+(firefox:9834): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
