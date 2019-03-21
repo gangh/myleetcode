@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python
-Update time:  2019-03-14 02:43:15
+Update time:  2019-03-20 12:02:37
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **6   /   957** problems
+I have solved **6   /   961** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -117,7 +117,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)||[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
-|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Medium|
+|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
@@ -973,3 +973,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|||Medium|
 |1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|||Medium|
+|1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||Easy|
+|1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
+|1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
+|1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
