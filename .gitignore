@@ -1,2 +1,4 @@
 # not track the config include your id of leetcode
 config.cfg
+cookies.json
+geckodriver.log
