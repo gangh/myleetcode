@@ -1,6 +1,3 @@
-# -*- coding:utf-8 -*-
-
-
 # Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
 #
 # Example 1:
@@ -25,10 +22,7 @@
 #
 
 
-class Solution(object):
-    def countBits(self, num):
-        """
-        :type num: int
-        :rtype: List[int]
-        """
-        return [len(bin(i).split('1'))-1 for i in range(num+1)] 
+class Solution:
+    def countBits(self, num: int) -> List[int]:
+        return [len(bin(i).split('1'))-1 for i in range(num+1)]
+            
