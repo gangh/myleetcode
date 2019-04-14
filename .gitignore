@@ -2,3 +2,4 @@
 config.cfg
 cookies.json
 geckodriver.log
+auto_pr.sh
