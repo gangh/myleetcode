@@ -2,7 +2,7 @@
 date
 cd /home/gang/mygithub/myleetcode/
 git pull
-python leetcode_generate.py
+/home/gang/anaconda2/envs/conda4leetcode/bin/python leetcode_generate.py
 git add .
 git commit -m "auto refresh leetcode"
 git push
