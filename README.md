@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-04-17 00:01:09
+Update time:  2019-04-19 00:01:11
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **16   /   978** problems
+I have solved **17   /   978** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -50,7 +50,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)||[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
-|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/035-search-insert-position/search-insert-position.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/035-search-insert-position/search-insert-position.py)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
@@ -727,7 +727,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |789|[kth-largest-element-in-a-stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|||Easy|
 |790|[global-and-local-inversions](https://leetcode.com/problems/global-and-local-inversions)||[:memo:](https://leetcode.com/articles/global-and-local-inversions/)|Medium|
 |791|[split-bst](https://leetcode.com/problems/split-bst)|:lock:|[:memo:](https://leetcode.com/articles/split-bst/)|Medium|
-|792|[binary-search](https://leetcode.com/problems/binary-search)|||Easy|
+|792|[binary-search](https://leetcode.com/problems/binary-search)||[:memo:](https://leetcode.com/articles/binary-search/)|Easy|
 |793|[swap-adjacent-in-lr-string](https://leetcode.com/problems/swap-adjacent-in-lr-string)||[:memo:](https://leetcode.com/articles/swap-adjacent-in-lr-string/)|Medium|
 |794|[swim-in-rising-water](https://leetcode.com/problems/swim-in-rising-water)||[:memo:](https://leetcode.com/articles/swim-in-rising-water/)|Hard|
 |795|[k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)||[:memo:](https://leetcode.com/articles/k-th-symbol-in-grammar/)|Medium|
