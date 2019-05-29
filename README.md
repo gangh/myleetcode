@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-05-28 00:01:21
+Update time:  2019-05-29 00:01:20
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -441,7 +441,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|||Easy|
-|449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|||Medium|
+|449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|||Medium|
 |452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
