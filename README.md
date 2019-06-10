@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-06-09 00:01:22
+Update time:  2019-06-10 00:01:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1019** problems
+I have solved **21   /   1023** problems
 while there are **153** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1035,3 +1035,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
+|1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
+|1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
+|1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
+|1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
