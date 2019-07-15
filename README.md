@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-07-14 00:01:20
+Update time:  2019-07-15 00:01:18
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1051** problems
+I have solved **21   /   1055** problems
 while there are **165** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1067,3 +1067,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
+|1217|[relative-sort-array](https://leetcode.com/problems/relative-sort-array)|||Easy|
+|1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
+|1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
+|1220|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
