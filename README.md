@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-07-21 00:01:20
+Update time:  2019-07-22 00:01:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1055** problems
+I have solved **21   /   1059** problems
 while there are **165** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -484,7 +484,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
-|495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking)|||Medium|
+|495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking)||[:memo:](https://leetcode.com/articles/teemo-attacking/)|Medium|
 |496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)||[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
 |498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)|||Medium|
 |499|[the-maze-iii](https://leetcode.com/problems/the-maze-iii)|:lock:||Hard|
@@ -1071,3 +1071,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
 |1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
 |1220|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
+|1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
+|1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
+|1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
+|1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
