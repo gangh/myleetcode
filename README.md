@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-07-23 00:01:19
+Update time:  2019-07-24 00:01:18
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -984,7 +984,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:||Medium|
 |1059|[missing-element-in-sorted-array](https://leetcode.com/problems/missing-element-in-sorted-array)|:lock:|[:memo:](https://leetcode.com/articles/missing-element-in-sorted-array/)|Medium|
-|1060|[longest-repeating-substring](https://leetcode.com/problems/longest-repeating-substring)|:lock:||Medium|
+|1060|[longest-repeating-substring](https://leetcode.com/problems/longest-repeating-substring)|:lock:|[:memo:](https://leetcode.com/articles/longest-repeating-substring/)|Medium|
 |1061|[number-of-valid-subarrays](https://leetcode.com/problems/number-of-valid-subarrays)|:lock:||Hard|
 |1062|[partition-array-into-three-parts-with-equal-sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|||Easy|
 |1063|[best-sightseeing-pair](https://leetcode.com/problems/best-sightseeing-pair)|||Medium|
