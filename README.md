@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-07-28 00:01:17
+Update time:  2019-07-29 00:01:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1063** problems
+I have solved **21   /   1067** problems
 while there are **169** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1079,3 +1079,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
+|1236|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)|||Easy|
+|1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
+|1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
+|1240|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
