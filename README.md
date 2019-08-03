@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-08-02 00:01:15
+Update time:  2019-08-03 00:01:20
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -297,7 +297,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |296|[best-meeting-point](https://leetcode.com/problems/best-meeting-point)|:lock:|[:memo:](https://leetcode.com/articles/best-meeting-point/)|Hard|
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-binary-tree/)|Hard|
 |298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence/)|Medium|
-|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)|||Medium|
+|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)|||Easy|
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
