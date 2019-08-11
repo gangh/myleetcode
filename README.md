@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-08-10 00:01:21
+Update time:  2019-08-11 00:01:16
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1072** problems
-while there are **169** problems still locked.
+I have solved **21   /   1076** problems
+while there are **173** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -84,7 +84,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
-|69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
+|69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python](https://github.com/gangh/myleetcode/blob/master/solutions/070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
@@ -1026,10 +1026,13 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1099|[path-with-maximum-minimum-value](https://leetcode.com/problems/path-with-maximum-minimum-value)|:lock:||Medium|
 |1100|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:||Medium|
 |1101|[parallel-courses](https://leetcode.com/problems/parallel-courses)|:lock:||Hard|
+|1102|[is-a-a-majority-element](https://leetcode.com/problems/is-a-a-majority-element)|:lock:||Easy|
 |1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
 |1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
 |1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
 |1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
+|1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:||Medium|
+|1108|[analyse-user-website-visit-pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern)|:lock:||Medium|
 |1111|[minimum-score-triangulation-of-polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|||Medium|
 |1113|[moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii)|||Medium|
 |1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
@@ -1039,6 +1042,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
 |1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
 |1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)||[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
+|1124|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
