@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-08-11 00:01:16
+Update time:  2019-08-12 00:01:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1076** problems
+I have solved **21   /   1080** problems
 while there are **173** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -152,7 +152,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.py) [C](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.c)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
-|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
+|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)||[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
@@ -1026,13 +1026,13 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1099|[path-with-maximum-minimum-value](https://leetcode.com/problems/path-with-maximum-minimum-value)|:lock:||Medium|
 |1100|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:||Medium|
 |1101|[parallel-courses](https://leetcode.com/problems/parallel-courses)|:lock:||Hard|
-|1102|[is-a-a-majority-element](https://leetcode.com/problems/is-a-a-majority-element)|:lock:||Easy|
+|1102|[check-if-a-number-is-majority-element-in-a-sorted-array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array)|:lock:||Easy|
 |1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
 |1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
 |1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
 |1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
 |1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:||Medium|
-|1108|[analyse-user-website-visit-pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern)|:lock:||Medium|
+|1108|[analyze-user-website-visit-pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern)|:lock:||Medium|
 |1111|[minimum-score-triangulation-of-polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|||Medium|
 |1113|[moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii)|||Medium|
 |1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
@@ -1092,3 +1092,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1249|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
 |1250|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)|||Medium|
 |1251|[longest-chunked-palindrome-decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|||Hard|
+|1260|[day-of-the-year](https://leetcode.com/problems/day-of-the-year)|||Easy|
+|1261|[swap-for-longest-repeated-character-substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)|||Medium|
+|1262|[online-majority-element-in-subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|||Hard|
+|1263|[number-of-dice-rolls-with-target-sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|||Medium|
