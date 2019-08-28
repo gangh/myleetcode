@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-08-27 00:01:27
+Update time:  2019-08-28 00:01:16
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -1106,5 +1106,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1263|[number-of-dice-rolls-with-target-sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|||Medium|
 |1267|[remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||Medium|
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
-|1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Easy|
+|1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
