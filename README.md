@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-09-04 00:01:17
+Update time:  2019-09-05 00:01:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -340,7 +340,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
 |340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characte/)|Hard|
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|||Medium|
-|342|[power-of-four](https://leetcode.com/problems/power-of-four)|||Easy|
+|342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
