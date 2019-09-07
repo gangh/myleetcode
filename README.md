@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-09-06 00:01:15
+Update time:  2019-09-07 00:01:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
 I have solved **21   /   1096** problems
-while there are **177** problems still locked.
+while there are **178** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -1109,6 +1109,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
-|1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|||Easy|
+|1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
 |1281|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
 |1282|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
