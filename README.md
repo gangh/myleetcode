@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-09-15 00:01:17
+Update time:  2019-09-16 00:01:18
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1104** problems
+I have solved **21   /   1108** problems
 while there are **182** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1120,3 +1120,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1288|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
 |1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
+|1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
+|1298|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
+|1299|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
+|1300|[critical-connections-in-a-network](https://leetcode.com/problems/critical-connections-in-a-network)|||Hard|
