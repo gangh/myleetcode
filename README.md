@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-10-06 00:01:23
+Update time:  2019-10-07 00:01:30
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1125** problems
-while there are **186** problems still locked.
+I have solved **21   /   1129** problems
+while there are **190** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -344,7 +344,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
-|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
+|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
@@ -774,7 +774,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
-|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|||Easy|
+|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Easy|
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
@@ -1069,9 +1069,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
-|1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|||Easy|
-|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|||Medium|
-|1151|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|||Medium|
+|1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:||Easy|
+|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:||Medium|
+|1151|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|:lock:||Medium|
 |1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
@@ -1082,7 +1082,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
-|1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|||Hard|
+|1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
@@ -1140,4 +1140,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1320|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
+|1329|[play-with-chips](https://leetcode.com/problems/play-with-chips)|||Easy|
+|1330|[longest-arithmetic-subsequence-of-given-difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
+|1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
+|1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
