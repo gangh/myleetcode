@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-10-13 00:01:29
+Update time:  2019-10-14 00:01:17
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1129** problems
+I have solved **21   /   1133** problems
 while there are **190** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -342,7 +342,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|||Medium|
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
-|344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string)||[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
@@ -419,7 +419,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting)|:lock:||Medium|
 |419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board)|||Medium|
 |420|[strong-password-checker](https://leetcode.com/problems/strong-password-checker)|||Hard|
-|421|[maximum-xor-of-two-numbers-in-an-array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|||Medium|
+|421|[maximum-xor-of-two-numbers-in-an-array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)||[:memo:](https://leetcode.com/articles/maximum-xor-of-two-numbers-in-an-array/)|Medium|
 |422|[valid-word-square](https://leetcode.com/problems/valid-word-square)|:lock:||Easy|
 |423|[reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)||[:memo:](https://leetcode.com/articles/reconstruct-original-digits-from-english/)|Medium|
 |424|[longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|||Medium|
@@ -440,7 +440,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)|[Python](https://github.com/gangh/myleetcode/blob/master/solutions/445-add-two-numbers-ii/add-two-numbers-ii.py)||Medium|
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
-|448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|||Easy|
+|448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|||Medium|
@@ -1145,3 +1145,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
 |1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
+|1341|[split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|||Easy|
+|1342|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|||Medium|
+|1343|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Medium|
+|1344|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
