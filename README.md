@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-10-17 00:01:28
+Update time:  2019-10-18 00:01:16
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -1137,7 +1137,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1308|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
 |1309|[sort-items-by-groups-respecting-dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|
 |1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|||Easy|
-|1320|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
+|1320|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string-ii/)|Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
 |1329|[play-with-chips](https://leetcode.com/problems/play-with-chips)|||Easy|
