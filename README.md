@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-10-21 00:01:19
+Update time:  2019-10-22 00:01:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1142** problems
-while there are **190** problems still locked.
+I have solved **21   /   1143** problems
+while there are **195** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -348,7 +348,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
-|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|||Easy|
+|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|Easy|
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
@@ -1077,9 +1077,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1157|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
-|1164|[missing-number-in-arithmetic-progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|||Easy|
-|1165|[meeting-scheduler](https://leetcode.com/problems/meeting-scheduler)|||Medium|
-|1166|[toss-strange-coins](https://leetcode.com/problems/toss-strange-coins)|||Medium|
+|1164|[missing-number-in-arithmetic-progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|:lock:||Easy|
+|1165|[meeting-scheduler](https://leetcode.com/problems/meeting-scheduler)|:lock:||Medium|
+|1166|[toss-strange-coins](https://leetcode.com/problems/toss-strange-coins)|:lock:||Medium|
 |1167|[minimum-time-to-build-blocks](https://leetcode.com/problems/minimum-time-to-build-blocks)|:lock:||Hard|
 |1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)||[:memo:](https://leetcode.com/articles/duplicate-zeros/)|Easy|
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
@@ -1090,7 +1090,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
 |1188|[brace-expansion-ii](https://leetcode.com/problems/brace-expansion-ii)|||Hard|
-|1192|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|||Hard|
+|1192|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|:lock:||Hard|
 |1194|[path-in-zigzag-labelled-binary-tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|||Medium|
 |1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
@@ -1122,6 +1122,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1263|[number-of-dice-rolls-with-target-sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|||Medium|
 |1267|[remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||Medium|
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
+|1271|[web-crawler](https://leetcode.com/problems/web-crawler)|:lock:||Medium|
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
