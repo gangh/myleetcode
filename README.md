@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-05 00:01:15
+Update time:  2019-11-06 00:01:29
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
 I have solved **21   /   1155** problems
-while there are **195** problems still locked.
+while there are **199** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -148,7 +148,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|||Medium|
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|||Medium|
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|||Hard|
-|133|[clone-graph](https://leetcode.com/problems/clone-graph)|||Medium|
+|133|[clone-graph](https://leetcode.com/problems/clone-graph)||[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.py) [C](https://github.com/gangh/myleetcode/blob/master/solutions/136-single-number/single-number.c)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
@@ -201,7 +201,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
-|202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
+|202|[happy-number](https://leetcode.com/problems/happy-number)||[:memo:](https://leetcode.com/articles/happy-number/)|Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/203-remove-linked-list-elements/remove-linked-list-elements.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/203-remove-linked-list-elements/remove-linked-list-elements.py)|[:memo:](https://leetcode.com/articles/remove-linked-list-elements/)|Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|||Easy|
@@ -1085,9 +1085,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
-|1175|[array-transformation](https://leetcode.com/problems/array-transformation)|||Easy|
-|1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|||Medium|
-|1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|||Medium|
+|1175|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
+|1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:||Medium|
+|1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
 |1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
@@ -1098,7 +1098,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
 |1197|[parsing-a-boolean-expression](https://leetcode.com/problems/parsing-a-boolean-expression)|||Hard|
-|1202|[palindrome-removal](https://leetcode.com/problems/palindrome-removal)|||Hard|
+|1202|[palindrome-removal](https://leetcode.com/problems/palindrome-removal)|:lock:||Hard|
 |1205|[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)|||Easy|
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
