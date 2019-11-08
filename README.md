@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-07 00:01:23
+Update time:  2019-11-08 00:01:18
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -123,7 +123,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
-|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|||Easy|
+|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-array-to-bst/)|Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)||[:memo:](https://leetcode.com/articles/balanced-binary-tree/)|Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
@@ -700,7 +700,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |761|[employee-free-time](https://leetcode.com/problems/employee-free-time)|:lock:|[:memo:](https://leetcode.com/articles/employee-free-time/)|Hard|
 |762|[find-anagram-mappings](https://leetcode.com/problems/find-anagram-mappings)|:lock:|[:memo:](https://leetcode.com/articles/find-anagram-mappings/)|Easy|
 |763|[special-binary-string](https://leetcode.com/problems/special-binary-string)||[:memo:](https://leetcode.com/articles/special-binary-string/)|Hard|
-|764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|||Medium|
+|764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-level-order-traversal/)|Medium|
 |765|[serialize-and-deserialize-n-ary-tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)|:lock:||Hard|
 |766|[flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)|||Medium|
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|Easy|
