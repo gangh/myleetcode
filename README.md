@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-13 00:01:15
+Update time:  2019-11-14 00:01:17
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -352,7 +352,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
-|354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)|||Hard|
+|354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)||[:memo:](https://leetcode.com/articles/russian-doll-envelopes/)|Hard|
 |355|[design-twitter](https://leetcode.com/problems/design-twitter)|||Medium|
 |356|[line-reflection](https://leetcode.com/problems/line-reflection)|:lock:||Medium|
 |357|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|||Medium|
