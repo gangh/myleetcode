@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-18 00:01:20
+Update time:  2019-11-19 00:01:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
 I have solved **21   /   1167** problems
-while there are **199** problems still locked.
+while there are **203** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -1093,9 +1093,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
 |1188|[brace-expansion-ii](https://leetcode.com/problems/brace-expansion-ii)|||Hard|
-|1189|[encode-number](https://leetcode.com/problems/encode-number)|||Medium|
-|1190|[smallest-common-region](https://leetcode.com/problems/smallest-common-region)|||Medium|
-|1191|[synonymous-sentences](https://leetcode.com/problems/synonymous-sentences)|||Medium|
+|1189|[encode-number](https://leetcode.com/problems/encode-number)|:lock:||Medium|
+|1190|[smallest-common-region](https://leetcode.com/problems/smallest-common-region)|:lock:||Medium|
+|1191|[synonymous-sentences](https://leetcode.com/problems/synonymous-sentences)|:lock:||Medium|
 |1192|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|:lock:||Hard|
 |1194|[path-in-zigzag-labelled-binary-tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|||Medium|
 |1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
@@ -1106,7 +1106,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
-|1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|||Hard|
+|1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
 |1217|[relative-sort-array](https://leetcode.com/problems/relative-sort-array)|||Easy|
 |1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
 |1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
