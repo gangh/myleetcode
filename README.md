@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-24 00:01:24
+Update time:  2019-11-25 00:01:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1168** problems
+I have solved **21   /   1172** problems
 while there are **204** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -357,7 +357,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |356|[line-reflection](https://leetcode.com/problems/line-reflection)|:lock:||Medium|
 |357|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|||Medium|
 |358|[rearrange-string-k-distance-apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)|:lock:||Hard|
-|359|[logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter)|:lock:||Easy|
+|359|[logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter)|:lock:|[:memo:](https://leetcode.com/articles/logger-rate-limiter/)|Easy|
 |360|[sort-transformed-array](https://leetcode.com/problems/sort-transformed-array)|:lock:||Medium|
 |361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:||Medium|
 |362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:||Medium|
@@ -1183,4 +1183,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1387|[find-elements-in-a-contaminated-binary-tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|||Medium|
 |1388|[greatest-sum-divisible-by-three](https://leetcode.com/problems/greatest-sum-divisible-by-three)|||Medium|
 |1389|[minimum-moves-to-move-a-box-to-their-target-location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location)|||Hard|
+|1395|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|||Easy|
+|1396|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
+|1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||Medium|
+|1398|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|||Hard|
 |1404|[print-immutable-linked-list-in-reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|:lock:||Medium|
