@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-11-30 00:01:23
+Update time:  2019-12-01 00:01:25
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1172** problems
+I have solved **21   /   1176** problems
 while there are **204** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1101,6 +1101,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
 |1197|[parsing-a-boolean-expression](https://leetcode.com/problems/parsing-a-boolean-expression)|||Hard|
+|1199|[hexspeak](https://leetcode.com/problems/hexspeak)|||Easy|
+|1200|[remove-interval](https://leetcode.com/problems/remove-interval)|||Medium|
+|1201|[delete-tree-nodes](https://leetcode.com/problems/delete-tree-nodes)|||Medium|
 |1202|[palindrome-removal](https://leetcode.com/problems/palindrome-removal)|:lock:||Hard|
 |1205|[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)|||Easy|
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
@@ -1115,6 +1118,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
+|1233|[number-of-ships-in-a-rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|||Hard|
 |1236|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)||[:memo:](https://leetcode.com/articles/n-th-tribonacci-number/)|Easy|
 |1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
