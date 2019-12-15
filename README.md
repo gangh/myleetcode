@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-12-14 00:01:25
+Update time:  2019-12-15 00:01:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1184** problems
+I have solved **21   /   1188** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1109,11 +1109,15 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1206|[corporate-flight-bookings](https://leetcode.com/problems/corporate-flight-bookings)|||Medium|
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
+|1211|[iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)|||Medium|
 |1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
 |1217|[relative-sort-array](https://leetcode.com/problems/relative-sort-array)|||Easy|
 |1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
 |1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
 |1220|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
+|1221|[element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|||Easy|
+|1222|[remove-covered-intervals](https://leetcode.com/problems/remove-covered-intervals)|||Medium|
+|1224|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
