@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2019-12-22 00:01:24
+Update time:  2019-12-23 00:01:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1192** problems
+I have solved **21   /   1196** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1110,7 +1110,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1207|[delete-nodes-and-return-forest](https://leetcode.com/problems/delete-nodes-and-return-forest)|||Medium|
 |1208|[maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||Medium|
 |1211|[iterator-for-combination](https://leetcode.com/problems/iterator-for-combination)|||Medium|
-|1212|[sequential-digits](https://leetcode.com/problems/sequential-digits)|||Medium|
+|1212|[sequential-digits](https://leetcode.com/problems/sequential-digits)||[:memo:](https://leetcode.com/articles/sequential-digits/)|Medium|
 |1213|[handshakes-that-dont-cross](https://leetcode.com/problems/handshakes-that-dont-cross)|:lock:||Hard|
 |1217|[relative-sort-array](https://leetcode.com/problems/relative-sort-array)|||Easy|
 |1218|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
@@ -1208,3 +1208,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|||Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
 |1414|[shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|||Hard|
+|1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|||Easy|
+|1422|[divide-array-in-sets-of-k-consecutive-numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|||Medium|
+|1423|[maximum-number-of-occurrences-of-a-substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)|||Medium|
+|1424|[maximum-candies-you-can-get-from-boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes)|||Hard|
