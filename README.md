@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-01-11 00:01:25
+Update time:  2020-01-12 00:01:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1208** problems
+I have solved **21   /   1212** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1131,6 +1131,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
+|1241|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
+|1242|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||Medium|
+|1243|[sum-of-nodes-with-even-valued-grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|||Medium|
+|1244|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings)|||Hard|
 |1247|[decrease-elements-to-make-array-zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|||Medium|
 |1248|[binary-tree-coloring-game](https://leetcode.com/problems/binary-tree-coloring-game)|||Medium|
 |1249|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
