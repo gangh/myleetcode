@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-01-12 00:01:26
+Update time:  2020-01-13 00:01:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1212** problems
+I have solved **21   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -752,7 +752,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |813|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|[smallest-rotation-with-highest-score](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
 |815|[champagne-tower](https://leetcode.com/problems/champagne-tower)||[:memo:](https://leetcode.com/articles/champagne-tower/)|Medium|
-|816|[design-hashset](https://leetcode.com/problems/design-hashset)|||Easy|
+|816|[design-hashset](https://leetcode.com/problems/design-hashset)||[:memo:](https://leetcode.com/articles/design-hashset/)|Easy|
 |817|[design-hashmap](https://leetcode.com/problems/design-hashmap)||[:memo:](https://leetcode.com/articles/design-hashmap/)|Easy|
 |818|[similar-rgb-color](https://leetcode.com/problems/similar-rgb-color)|:lock:|[:memo:](https://leetcode.com/articles/similar-rgb-color/)|Easy|
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)||[:memo:](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)|Medium|
@@ -1228,3 +1228,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1435|[xor-queries-of-a-subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)|||Medium|
 |1436|[get-watched-videos-by-your-friends](https://leetcode.com/problems/get-watched-videos-by-your-friends)|||Medium|
 |1437|[minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|||Hard|
+|1440|[convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|||Easy|
+|1441|[minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|||Medium|
+|1442|[number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|||Medium|
+|1443|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||Hard|
