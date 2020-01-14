@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-01-13 00:01:27
+Update time:  2020-01-14 00:01:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -460,7 +460,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
 |466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
 |467|[unique-substrings-in-wraparound-string](https://leetcode.com/problems/unique-substrings-in-wraparound-string)|||Medium|
-|468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address)|||Medium|
+|468|[validate-ip-address](https://leetcode.com/problems/validate-ip-address)||[:memo:](https://leetcode.com/articles/validate-ip-address/)|Medium|
 |469|[convex-polygon](https://leetcode.com/problems/convex-polygon)|:lock:||Medium|
 |471|[encode-string-with-shortest-length](https://leetcode.com/problems/encode-string-with-shortest-length)|:lock:||Hard|
 |472|[concatenated-words](https://leetcode.com/problems/concatenated-words)|||Hard|
