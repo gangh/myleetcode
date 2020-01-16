@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-01-15 00:01:22
+Update time:  2020-01-16 00:01:38
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -701,7 +701,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |762|[find-anagram-mappings](https://leetcode.com/problems/find-anagram-mappings)|:lock:|[:memo:](https://leetcode.com/articles/find-anagram-mappings/)|Easy|
 |763|[special-binary-string](https://leetcode.com/problems/special-binary-string)||[:memo:](https://leetcode.com/articles/special-binary-string/)|Hard|
 |764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-level-order-traversal/)|Medium|
-|765|[serialize-and-deserialize-n-ary-tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)|:lock:||Hard|
+|765|[serialize-and-deserialize-n-ary-tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)|:lock:|[:memo:](https://leetcode.com/articles/serialize-and-deserialize-n-ary-tree/)|Hard|
 |766|[flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)||[:memo:](https://leetcode.com/articles/flatten-a-multilevel-doubly-linked-list/)|Medium|
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|Easy|
 |768|[partition-labels](https://leetcode.com/problems/partition-labels)||[:memo:](https://leetcode.com/articles/partition-labels/)|Medium|
