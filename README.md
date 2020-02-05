@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-02-04 00:01:26
+Update time:  2020-02-05 00:01:28
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -1240,7 +1240,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1449|[print-words-vertically](https://leetcode.com/problems/print-words-vertically)|||Medium|
 |1450|[delete-leaves-with-a-given-value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|||Medium|
 |1451|[minimum-number-of-taps-to-open-to-water-a-garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)|||Hard|
-|1454|[remove-palindromic-subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)|||Easy|
+|1454|[remove-palindromic-subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)||[:memo:](https://leetcode.com/articles/remove-palindrome-subsequences/)|Easy|
 |1455|[filter-restaurants-by-vegan-friendly-price-and-distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)|||Medium|
 |1456|[find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)|||Medium|
 |1457|[minimum-difficulty-of-a-job-schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)|||Hard|
