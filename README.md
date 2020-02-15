@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-02-14 00:01:21
+Update time:  2020-02-15 00:01:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -1117,7 +1117,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1219|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
 |1220|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
 |1221|[element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|||Easy|
-|1222|[remove-covered-intervals](https://leetcode.com/problems/remove-covered-intervals)|||Medium|
+|1222|[remove-covered-intervals](https://leetcode.com/problems/remove-covered-intervals)||[:memo:](https://leetcode.com/articles/remove-covered-intervals/)|Medium|
 |1224|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||Easy|
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
