@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-02-23 00:01:21
+Update time:  2020-02-24 00:01:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1248** problems
+I have solved **21   /   1252** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1070,7 +1070,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1147|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
 |1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:||Easy|
-|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:||Medium|
+|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-bsts/)|Medium|
 |1151|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|:lock:||Medium|
 |1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
@@ -1154,6 +1154,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1271|[web-crawler](https://leetcode.com/problems/web-crawler)|:lock:||Medium|
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
+|1274|[number-of-days-between-two-dates](https://leetcode.com/problems/number-of-days-between-two-dates)|||Easy|
+|1275|[validate-binary-tree-nodes](https://leetcode.com/problems/validate-binary-tree-nodes)|||Medium|
+|1276|[closest-divisors](https://leetcode.com/problems/closest-divisors)|||Medium|
+|1277|[largest-multiple-of-three](https://leetcode.com/problems/largest-multiple-of-three)|||Hard|
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
 |1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
 |1281|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
