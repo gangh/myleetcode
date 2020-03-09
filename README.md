@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-08 00:01:19
+Update time:  2020-03-09 00:01:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1260** problems
+I have solved **21   /   1264** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1276,3 +1276,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1483|[rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes)|||Medium|
 |1484|[linked-list-in-binary-tree](https://leetcode.com/problems/linked-list-in-binary-tree)|||Medium|
 |1485|[minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)|||Hard|
+|1490|[generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|||Easy|
+|1491|[bulb-switcher-iii](https://leetcode.com/problems/bulb-switcher-iii)|||Medium|
+|1492|[time-needed-to-inform-all-employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|||Medium|
+|1493|[frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|||Hard|
