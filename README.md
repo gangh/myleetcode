@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-21 00:01:20
+Update time:  2020-03-22 00:01:25
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1269** problems
+I have solved **21   /   1273** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -140,7 +140,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
-|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)||[:memo:](https://leetcode.com/articles/valid-palindrome/)|Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)||[:memo:](https://leetcode.com/articles/word-ladder/)|Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)||[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
@@ -187,7 +187,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-iii-data-structure-design/)|Easy|
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
-|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
+|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)||[:memo:](https://leetcode.com/articles/factorial-trailing-zeroes/)|Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)||[:memo:](https://leetcode.com/articles/binary-search-tree-iterator/)|Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)||[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
@@ -250,7 +250,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |248|[strobogrammatic-number-iii](https://leetcode.com/problems/strobogrammatic-number-iii)|:lock:||Hard|
 |249|[group-shifted-strings](https://leetcode.com/problems/group-shifted-strings)|:lock:||Medium|
 |250|[count-univalue-subtrees](https://leetcode.com/problems/count-univalue-subtrees)|:lock:|[:memo:](https://leetcode.com/articles/count-univalue-subtrees/)|Medium|
-|251|[flatten-2d-vector](https://leetcode.com/problems/flatten-2d-vector)|:lock:||Medium|
+|251|[flatten-2d-vector](https://leetcode.com/problems/flatten-2d-vector)|:lock:|[:memo:](https://leetcode.com/articles/flatten-2d-vector/)|Medium|
 |252|[meeting-rooms](https://leetcode.com/problems/meeting-rooms)|:lock:|[:memo:](https://leetcode.com/articles/meeting-rooms/)|Easy|
 |253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii)|:lock:|[:memo:](https://leetcode.com/articles/meeting-rooms-ii/)|Medium|
 |254|[factor-combinations](https://leetcode.com/problems/factor-combinations)|:lock:||Medium|
@@ -1277,6 +1277,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1483|[rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes)|||Medium|
 |1484|[linked-list-in-binary-tree](https://leetcode.com/problems/linked-list-in-binary-tree)|||Medium|
 |1485|[minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)|||Hard|
+|1486|[find-the-distance-value-between-two-arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|||Easy|
+|1487|[cinema-seat-allocation](https://leetcode.com/problems/cinema-seat-allocation)|||Medium|
+|1488|[sort-integers-by-the-power-value](https://leetcode.com/problems/sort-integers-by-the-power-value)|||Medium|
+|1489|[pizza-with-3n-slices](https://leetcode.com/problems/pizza-with-3n-slices)|||Hard|
 |1490|[generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|||Easy|
 |1491|[bulb-switcher-iii](https://leetcode.com/problems/bulb-switcher-iii)|||Medium|
 |1492|[time-needed-to-inform-all-employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|||Medium|
