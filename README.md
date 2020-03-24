@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-23 00:01:23
+Update time:  2020-03-24 00:01:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -195,7 +195,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
-|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
+|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)||[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
