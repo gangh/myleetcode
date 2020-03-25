@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-24 00:01:22
+Update time:  2020-03-25 00:01:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -387,7 +387,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)||[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
 |388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path)|||Medium|
-|389|[find-the-difference](https://leetcode.com/problems/find-the-difference)|||Easy|
+|389|[find-the-difference](https://leetcode.com/problems/find-the-difference)||[:memo:](https://leetcode.com/articles/find-the-difference/)|Easy|
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
 |391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
 |392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|||Easy|
@@ -467,7 +467,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)||[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Easy|
-|476|[number-complement](https://leetcode.com/problems/number-complement)|||Easy|
+|476|[number-complement](https://leetcode.com/problems/number-complement)||[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
 |477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)||[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
 |479|[largest-palindrome-product](https://leetcode.com/problems/largest-palindrome-product)|||Hard|
 |480|[sliding-window-median](https://leetcode.com/problems/sliding-window-median)||[:memo:](https://leetcode.com/articles/sliding-window-median/)|Hard|
@@ -978,7 +978,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1051|[shortest-way-to-form-string](https://leetcode.com/problems/shortest-way-to-form-string)|:lock:||Medium|
 |1052|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
-|1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||Easy|
+|1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)||[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
