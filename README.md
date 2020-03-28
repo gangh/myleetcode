@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-27 00:01:19
+Update time:  2020-03-28 00:01:20
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -339,7 +339,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |338|[counting-bits](https://leetcode.com/problems/counting-bits)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/338-counting-bits/counting-bits.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/338-counting-bits/counting-bits.py)|[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
 |339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
 |340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characte/)|Hard|
-|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|||Medium|
+|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)||[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
