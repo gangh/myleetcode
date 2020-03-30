@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-29 00:01:21
+Update time:  2020-03-30 00:01:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1277** problems
+I have solved **21   /   1281** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -27,7 +27,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Python](https://github.com/gangh/myleetcode/blob/master/solutions/009-palindrome-number/palindrome-number.py)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
-|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Python](https://github.com/gangh/myleetcode/blob/master/solutions/012-integer-to-roman/integer-to-roman.py) [Python3](https://github.com/gangh/myleetcode/blob/master/solutions/012-integer-to-roman/integer-to-roman.py)||Medium|
+|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Python](https://github.com/gangh/myleetcode/blob/master/solutions/012-integer-to-roman/integer-to-roman.py) [Python3](https://github.com/gangh/myleetcode/blob/master/solutions/012-integer-to-roman/integer-to-roman.py)|[:memo:](https://leetcode.com/articles/integer-to-roman/)|Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/013-roman-to-integer/roman-to-integer.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/013-roman-to-integer/roman-to-integer.py)|[:memo:](https://leetcode.com/articles/roman-to-integer/)|Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Python3](https://github.com/gangh/myleetcode/blob/master/solutions/014-longest-common-prefix/longest-common-prefix.py) [Python](https://github.com/gangh/myleetcode/blob/master/solutions/014-longest-common-prefix/longest-common-prefix.py)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
@@ -1244,7 +1244,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1443|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||Hard|
 |1444|[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)||[:memo:](https://leetcode.com/articles/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |1445|[number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|||Medium|
-|1446|[angle-between-hands-of-a-clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)|||Medium|
+|1446|[angle-between-hands-of-a-clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)||[:memo:](https://leetcode.com/articles/angle-between-hands-of-a-clock/)|Medium|
 |1447|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)|||Hard|
 |1448|[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|||Easy|
 |1449|[print-words-vertically](https://leetcode.com/problems/print-words-vertically)|||Medium|
@@ -1293,3 +1293,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
 |1507|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
+|1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|||Easy|
+|1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
+|1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)|||Medium|
+|1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
