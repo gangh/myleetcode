@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-30 00:01:27
+Update time:  2020-03-31 00:01:28
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -678,7 +678,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
-|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|||Easy|
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)||[:memo:](https://leetcode.com/articles/to-lower-case/)|Easy|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
@@ -1295,5 +1295,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
 |1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|||Easy|
 |1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
-|1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)|||Medium|
+|1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
