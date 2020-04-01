@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-03-31 00:01:28
+Update time:  2020-04-01 00:01:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -1293,7 +1293,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
 |1507|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
-|1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|||Easy|
+|1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
 |1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
 |1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
