@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-04-04 00:01:24
+Update time:  2020-04-05 00:01:24
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1281** problems
+I have solved **21   /   1285** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -267,7 +267,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |266|[palindrome-permutation](https://leetcode.com/problems/palindrome-permutation)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation/)|Easy|
 |267|[palindrome-permutation-ii](https://leetcode.com/problems/palindrome-permutation-ii)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation-ii/)|Medium|
 |268|[missing-number](https://leetcode.com/problems/missing-number)||[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
-|269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:||Hard|
+|269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:|[:memo:](https://leetcode.com/articles/alien-dictionary/)|Hard|
 |270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value/)|Easy|
 |271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings)|:lock:|[:memo:](https://leetcode.com/articles/encode-and-decode-strings/)|Medium|
 |272|[closest-binary-search-tree-value-ii](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|:lock:||Hard|
@@ -1290,6 +1290,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1497|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
 |1498|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|||Medium|
 |1499|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
+|1500|[count-largest-group](https://leetcode.com/problems/count-largest-group)|||Easy|
+|1501|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
+|1502|[construct-k-palindrome-strings](https://leetcode.com/problems/construct-k-palindrome-strings)|||Medium|
+|1503|[reducing-dishes](https://leetcode.com/problems/reducing-dishes)|||Hard|
 |1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
 |1507|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
