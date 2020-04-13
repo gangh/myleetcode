@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python,Python3,C
-Update time:  2020-04-12 00:01:25
+Update time:  2020-04-13 00:01:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   1289** problems
+I have solved **21   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -130,7 +130,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |112|[path-sum](https://leetcode.com/problems/path-sum)||[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)||[:memo:](https://leetcode.com/articles/path-sum-ii/)|Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
-|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
+|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
@@ -1049,7 +1049,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1124|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1125|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
 |1126|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:||Medium|
-|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
+|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)||[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
@@ -1305,3 +1305,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1519|[minimum-subsequence-in-non-increasing-order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)|||Easy|
 |1520|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)|||Medium|
 |1522|[stone-game-iii](https://leetcode.com/problems/stone-game-iii)|||Hard|
+|1524|[string-matching-in-an-array](https://leetcode.com/problems/string-matching-in-an-array)|||Easy|
+|1525|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
+|1526|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
+|1527|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
